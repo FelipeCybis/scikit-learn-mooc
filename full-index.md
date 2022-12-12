@@ -42,6 +42,8 @@
 
 [🏁 Wrap-up quiz 1](https://inria.github.io/scikit-learn-mooc/predictive_modeling_pipeline/wrap_up_quiz.html)
 
+[🏁 Wrap-up quiz 1 custom solution](notebooks/01_wrapup.ipynb) ✅
+
 [Main take-away](https://inria.github.io/scikit-learn-mooc/predictive_modeling_pipeline/predictive_modeling_module_take_away.html)
 
 # Selecting the best model
@@ -70,6 +72,8 @@
 
 [🏁 Wrap-up quiz 2](https://inria.github.io/scikit-learn-mooc/overfit/overfit_wrap_up_quiz.html)
 
+[🏁 Wrap-up quiz 2 custom solution](notebooks/cross_validation_wrapup.ipynb) ✅
+
 [Main take-away](https://inria.github.io/scikit-learn-mooc/overfit/overfit_take_away.html)
 
 # Hyperparameter tuning
@@ -95,6 +99,8 @@
 * [✅ Quiz M3.02](https://inria.github.io/scikit-learn-mooc/tuning/parameter_tuning_automated_quiz_m3_02.html)
 
 [🏁 Wrap-up quiz 3](https://inria.github.io/scikit-learn-mooc/tuning/parameter_tuning_wrap_up_quiz.html)
+
+[🏁 Wrap-up quiz 3 custom solution](notebooks/parameter_tuning_wrapup.ipynb) ✅
 
 [Main take-away](https://inria.github.io/scikit-learn-mooc/tuning/parameter_tuning_module_take_away.html)
 
@@ -141,6 +147,8 @@
 * [✅ Quiz M4.05](https://inria.github.io/scikit-learn-mooc/linear_models/linear_models_quiz_m4_05.html)
 
 [🏁 Wrap-up quiz 4](https://inria.github.io/scikit-learn-mooc/linear_models/linear_models_wrap_up_quiz.html)
+
+[🏁 Wrap-up quiz 4 custom solution](notebooks/linear_models_wrapup.ipynb) ✅
 
 [Main take-away](https://inria.github.io/scikit-learn-mooc/linear_models/linear_models_module_take_away.html)
 
@@ -251,6 +259,8 @@
 * [✅ Quiz M7.05](https://inria.github.io/scikit-learn-mooc/evaluation/evaluation_quiz_m7_05.html)
 
 [🏁 Wrap-up quiz 7](https://inria.github.io/scikit-learn-mooc/evaluation/evaluation_wrap_up_quiz.html)
+
+[🏁 Wrap-up quiz 7 custom solution](notebooks/metrics_wrapup.ipynb) ✅
 
 [Main take-away](https://inria.github.io/scikit-learn-mooc/evaluation/evaluation_module_take_away.html)
 
